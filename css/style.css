@@ -1,0 +1,24 @@
+/*Container*/
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.box {
+    max-width: 600px;
+    text-align: justify;
+}
+
+/*text song*/
+
+h1 {
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 400;
+}

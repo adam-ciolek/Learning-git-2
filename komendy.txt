@@ -1,1 +1,1 @@
-npm test
+npx html-validate index.html
